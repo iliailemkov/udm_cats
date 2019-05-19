@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">udm_cats</string>
+    <!-- Events -->
+    <string name="event_title">Event:</string>
+    <string name="event_name_hint">Event name</string>
+    <string name="event_start_date">Event start date</string>
+    <string name="event_end_date">Event end date</string>
+    <string name="event_about_hint">About</string>
+    <!-- Login -->
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+</resources>
