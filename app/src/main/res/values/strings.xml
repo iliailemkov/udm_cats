@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">udm_cats</string>
+    <string name="app_name">Давай бегать</string>
     <!-- Events -->
     <string name="event_title">Event:</string>
     <string name="event_name_hint">Event name</string>
